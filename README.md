@@ -1,4 +1,6 @@
 ### Hi there 👋
+### - 🔭 I’m currently working on Prolins It Solution
+### - 🌱 I’m currently learning Flutter and .NET Core 3.1
 
 <!--
 **Filipi1/Filipi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
