@@ -4,7 +4,8 @@
 
 ### - 💕 In a serious releationship with Flutter.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/)](https://www.linkedin.com/in/pireseduardo/)
+### - 📫 Social Medias:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-braga-2018/)](https://www.linkedin.com/in/filipe-braga-2018/)
 
 <!--
 **Filipi1/Filipi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
