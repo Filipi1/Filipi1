@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🔭 I’m currently working on Prolins It Solution
+### - 🔭 I’m currently working on Prolins It Solution (outsourced to Fortbrasil)
 ### - 🌱 I’m currently learning Flutter and .NET Core 3.1
 
 ### - 💕 In a serious releationship with Flutter.
