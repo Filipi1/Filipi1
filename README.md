@@ -10,7 +10,6 @@
 <br>
 🔭 I’m currently working on Fortbrasil  <br>
 ⚡ Working with React Native, NodeJs and Python  <br>
-🌱 Learning Flutter and .NET Core 3.1  <br>
 💕 In a serious releationship with Flutter.
 
 <hr>
