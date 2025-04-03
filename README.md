@@ -8,9 +8,8 @@
 </div>
 
 <br>
-🔭 I’m currently working on Fortbrasil  <br>
-⚡ Working with React Native, NodeJs and Python  <br>
-💕 In a serious releationship with Flutter.
+🔭 I’m currently working on DMCard  <br>
+⚡ Working with Flutter, .NET Core and Python  <br>
 
 <hr>
 
